@@ -1,1 +1,1 @@
-put limits to you numbers down and up numbers
+application entry text box
