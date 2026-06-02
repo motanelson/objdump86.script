@@ -1,1 +1,1 @@
-application entry text box
+for example
