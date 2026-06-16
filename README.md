@@ -1,1 +1,1 @@
-for example
+object script 86 dump
